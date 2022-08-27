@@ -42,6 +42,10 @@ body #cdawrap {
 	transform-origin: 100% 50%;
 }
 
+.frame:hover {
+    background: red;
+}
+
 body {
 	margin: 0;
 	--color-text: #010300;
